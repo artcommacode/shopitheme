@@ -2,3 +2,4 @@
 
 npm run build:clean
 npm run build:babel
+npm link

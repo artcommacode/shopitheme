@@ -7,9 +7,12 @@
     "build": "scripty",
     "build:babel": "scripty",
     "build:clean": "scripty",
-    "build:copy": "scripty",
+    "build:dev": "scripty",
     "test": "scripty",
     "watch": "scripty"
+  },
+  "bin": {
+    "shopitheme": "build/bin/index.js"
   },
   "repository": {
     "type": "git",
