@@ -4,7 +4,12 @@
   "description": "A Node.js cli tool for interacting with Shopify themes",
   "main": "index.js",
   "scripts": {
-    "test": "scripty"
+    "build": "scripty",
+    "build:babel": "scripty",
+    "build:clean": "scripty",
+    "build:copy": "scripty",
+    "test": "scripty",
+    "watch": "scripty"
   },
   "repository": {
     "type": "git",
@@ -31,7 +36,9 @@
     "babel-preset-stage-2": "^6.13.0",
     "eslint": "^3.2.2",
     "eslint-plugin-flowtype": "^2.4.0",
-    "flow-bin": "^0.30.0"
+    "flow-bin": "^0.30.0",
+    "nodemon": "^1.10.0",
+    "rimraf": "^2.5.4"
   },
   "dependencies": {
     "scripty": "^1.6.0"

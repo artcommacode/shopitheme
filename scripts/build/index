@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+npm run build:clean
+npm run build:copy
+npm run build:babel
