@@ -2,7 +2,6 @@
   "name": "shopitheme",
   "version": "1.0.0",
   "description": "A Node.js cli tool for interacting with Shopify themes",
-  "main": "index.js",
   "scripts": {
     "build": "scripty",
     "build:babel": "scripty",
