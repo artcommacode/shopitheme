@@ -1,0 +1,25 @@
+{
+  "name": "shopitheme",
+  "version": "1.0.0",
+  "description": "A Node.js cli tool for interacting with Shopify themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artcommacode/shopitheme.git"
+  },
+  "keywords": [
+    "shopify",
+    "themes",
+    "cli",
+    "watch"
+  ],
+  "author": "@artcommacode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artcommacode/shopitheme/issues"
+  },
+  "homepage": "https://github.com/artcommacode/shopitheme#readme"
+}
