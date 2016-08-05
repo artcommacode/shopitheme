@@ -1,0 +1,17 @@
+{
+  "parser": "babel-eslint",
+  "plugins": ["flowtype"],
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module",
+    "ecmaFeatures": {
+    },
+  },
+  "rules": {
+    semi: 0
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}
